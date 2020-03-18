@@ -28,7 +28,7 @@
     "@ionic/angular": "^5.0.0",
     "cordova-ios": "5.1.1",
     "cordova-plugin-ios-keychain": "git+https://github.com/ionic-team/cordova-plugin-ios-keychain.git",
-    "cordova-plugin-nativestorage": "^2.3.2",
+    "cordova-plugin-nativestorage": "git+https://github.com/komed-health/cordova-plugin-nativestorage.git",
     "core-js": "^2.5.4",
     "rxjs": "~6.5.1",
     "tslib": "^1.9.0",
