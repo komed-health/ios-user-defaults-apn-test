@@ -1,0 +1,8 @@
+{
+  "name": "ShareDemo",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
